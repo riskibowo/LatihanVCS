@@ -8,7 +8,7 @@
 
 git --version
 
-![Gambar1](gambar/git.png)
+![Gambar1](gambar/gittt.png)
 
 #### - Pada saat pertama kali menggunakan git, perlu dilakukan konfigurasi user.name dan user.email
 #### - Konfigurasi ini bisa dilakukan untuk global repository atau individual repository
