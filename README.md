@@ -118,7 +118,7 @@ $ git push -u origin master
 #### - Buka laman github.com, arahkan pada repositorynya
 #### - Maka perubahan akan terlihat pada laman tersebut
 
-![Gambar1](gambar/git5.png)
+![Gambar1](gambar/git55.png)
 
 
 ## Clone Repository
